@@ -1,2 +1,1 @@
-# PRODIGY_ML_03
-Implementing a support vector machine (SVM) to classify images of cats and dogs from the Kaggle dataset.
+This project implements a Support Vector Machine (SVM) to classify images of cats and dogs from the Kaggle "Dogs vs. Cats" dataset. The dataset includes 25,000 labeled images for training and 12,500 images for testing. The project involves data preprocessing, feature extraction, and SVM model training to achieve accurate classification. The structure includes directories for data, Jupyter notebooks for development, and a directory to save the trained model. Required libraries include numpy, pandas, scikit-learn, and OpenCV.
